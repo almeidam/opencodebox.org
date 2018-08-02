@@ -1,6 +1,6 @@
 weight: 3
-name: "Mapthat..."
-proj_url:           # /projects/...
+name: "Projectx"
+proj_url:     # /projects/...
 icon: "feature_home"
 logo_feature: "no-logo-sml.png"
 description: "Our next project comming soon!"
