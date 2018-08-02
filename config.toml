@@ -177,4 +177,4 @@ paginate = 10
     # at 'exampleSite/data/clients'.
     # For more informtion take a look at the README.
     title = "Projects"
-    subtitle = "At Photobox Group Security we believe in collaborative work and open code to promote innovation and community knowledge enrichment. Our solutions rely in part by the tremendous work done by the Open Source community. The breath and robustness of applications comming from the community is growing and we want to contribute to that growth. We call on members from the Photobox Group and beyond to share Open Source tools to enrich this dynamic community."
+    subtitle = "At Photobox Group Security we believe in collaborative work and open code to promote innovation and knowledge enrichment. Our solutions rely in part by the tremendous work done by the Open Source community. The breath and robustness of applications being developed is growing and we want to contribute to that growth. We call on members from the Photobox Group and beyond to share Open Source tools to enrich this dynamic community."
