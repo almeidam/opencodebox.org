@@ -1,4 +1,6 @@
-weight: 6
-name: "Porject 1"
-icon: "fa fa-user"
-description: "Am terminated it excellence invitation projection as. She graceful shy believed distance use nay. Lively is people so basket ladies window expect."
+weight: 1
+name: "GraphRisk"
+proj_url: graphrisk     # /projects/
+icon: "feature_home"
+logo_feature: "graphrisk-logo-sml.png"
+description: "GraphRisk was born from Dinis as an attempt to map the IT ecosystem of the organisation and the data flow between these systems (Data Journey in GDPR language). The project succeeded the initial scope of mapping the data journey within Photobox and gave insight to the governance and risk teams on how to use a graph data base to inspect data flows between systems."
