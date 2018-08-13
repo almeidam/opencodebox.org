@@ -1,0 +1,28 @@
+ {{ if .Params.back_image }}
+
+          <div id="heading-breadcrumbs-back-image"   style="background-image: url(/images/{{.Params.back_image}});" >
+
+  {{ else }}
+
+         <div id="heading-breadcrumbs">
+
+  {{ end }}
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+
+    {{ if .Params.proj_logo }}
+
+         <img src="/images/{{.Params.proj_logo}}" alt="{{ .Title }} logo" class="proj-logo">
+
+     {{ else }}
+
+          <h1>{{ .Title }}</h1>
+
+     {{ end }}
+
+               </div>
+            </div>
+        </div>
+    </div>
+</div>
