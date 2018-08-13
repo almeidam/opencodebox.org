@@ -1,0 +1,21 @@
+{{ if isset .Site.Params "our_projects" }}
+{{ if .Site.Params.our_projects.enable }}
+<section class="bar background-white no-mb">
+    <div class="container">
+
+        <div class="col-md-12">
+            <div class="heading text-center">
+                <h2>{{ .Site.Params.our_projects.title }}</h2>
+            </div>
+
+            <p class="lead">
+              {{ .Site.Params.our_projects.subtitle | markdownify }}
+            </p>
+
+        </div>
+    </div>
+    <!-- /.container -->
+</section>
+<!-- /.bar -->
+{{ end }}
+{{ end }}
