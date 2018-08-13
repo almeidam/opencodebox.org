@@ -25,13 +25,13 @@
 #heading-breadcrumbs {
   background: url('../img/texture-bw.png') center center repeat;
   padding: 0px 0;
-  /* min-height: 300px; */
+ min-height: 300px;
   margin-bottom: 20px;
 }
 
 #heading-breadcrumbs-back-image
  {
-/*  min-height: 300px; */
+  min-height: 300px;
   margin-bottom: 20px;
 }
 

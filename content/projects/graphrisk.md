@@ -1,7 +1,7 @@
 ---
 title:       GraphRisk
-proj_logo:   graphrisk/graphrisk-logo.png        # max height is 75px
-back_image:  graphrisk/graphrisk-ban-1.png       # add background image code i.e. leave blank for default image ocb-project-banner.jpg
+proj_logo:   graphrisk-logo.png        # max height is 75px
+back_image:  graphrisk-ban-1.png       # add background image code i.e. leave blank for default image ocb-project-banner.jpg
 date:        20/07/2018
 draft:       false
 description: Map IT Systems
@@ -42,7 +42,7 @@ MIT License, ISC License, Apache License 2.0, GNU General Public License v3.0 or
 
 ### GraphRisk Workflow
 
-<img src="/images/graphrisk/graphrisk-1.png" title="GraphRisk Workflow"  class="img-responsive">
+<img src="/images/graphrisk-1.png" title="GraphRisk Workflow"  class="img-responsive">
 
 
-<img src="/images/graphrisk/graphrisk-2.png" title="GraphRisk Workflow" class="img-responsive">
+<img src="/images/graphrisk-2.png" title="GraphRisk Workflow" class="img-responsive">
